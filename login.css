@@ -1,0 +1,21 @@
+.input{
+    border-radius: 5px;
+    border:1px solid lightgrey;
+    height: 40px;
+}
+.signup-btn{
+    margin: 0px auto;
+}
+.head{
+    height: 80px;
+    background-color: rgba(1,46,113,255);
+}
+.headings{
+    font-family: "Roboto Condensed, sans-serif";
+}
+.para{
+    font-family: "Open Sans", sans-serif;
+}
+.signup-btn{
+    background-color: rgba(1,46,113,255) !important;
+}
